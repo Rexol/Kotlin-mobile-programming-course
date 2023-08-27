@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="login_header">Login</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="password_desc_show">Show password</string>
+    <string name="password_desc_hide">Hide password</string>
+    <string name="submit_btn">Submit</string>
+    <string name="login_alert_title">Login</string>
+    <string name="login_alert_success">Successfuly logged in</string>
+    <string name="login_alert_confirm_btn">Close</string>
+</resources>

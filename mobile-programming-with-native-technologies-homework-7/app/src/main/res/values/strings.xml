@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bmi-mmvm</string>
+    <string name="bmi_res">Your BMI: %.2f</string>
+    <string name="weight_label">Weight</string>
+    <string name="height_label">Height</string>
+    <string name="BMI_title">Body mass index</string>
+</resources>
